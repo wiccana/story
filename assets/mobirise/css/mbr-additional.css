@@ -1097,6 +1097,33 @@ a {
 .cid-swLgGlC03E .card-title {
   color: #724d9c;
 }
+.cid-sGdYxb4RX3 {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-sGdYxb4RX3 .bg-instagram {
+  background: #f00075;
+  color: #ffffff;
+}
+.cid-sGdYxb4RX3 .bg-instagram:hover {
+  background: #bd005c;
+}
+.cid-sGdYxb4RX3 .iconfont-wrapper {
+  display: inline-block;
+  font-size: 32px;
+  border-radius: 50%;
+  width: 55px;
+  height: 55px;
+  line-height: 55px;
+  text-align: center;
+  transition: all 0.3s ease-in-out;
+}
+.cid-sGdYxb4RX3 [class^="socicon-"]:before,
+.cid-sGdYxb4RX3 [class*=" socicon-"]:before {
+  line-height: 55px;
+  padding: .6rem;
+}
 .cid-sjbvDBEB0c {
   padding-top: 2rem;
   padding-bottom: 2rem;
